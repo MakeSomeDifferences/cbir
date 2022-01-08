@@ -1,0 +1,8 @@
+{"ImageRetrievalMethod": "DiffHASH",
+  "DataBaseRoot": "C:\\Users\\kira\\PycharmProjects\\cbir\\data\\image",
+  "FeatureBaseRoot": "C:\\Users\\kira\\PycharmProjects\\cbir\\data\\feature",
+  "SearchMethod": {
+    "PSH": {"FeatureDir": "PSH", "MinSim": 70, "MaxReturnNum": 50},
+    "AvgHASH": {"FeatureDir": "AvgHASH", "MinSim": 70, "MaxReturnNum": 50},
+    "WHash": {"FeatureDir": "WHash", "MinSim": 80, "MaxReturnNum": 100},
+    "DiffHASH": {"FeatureDir": "DiffHASH", "MinSim": 70, "MaxReturnNum": 50}}}
